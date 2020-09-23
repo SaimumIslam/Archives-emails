@@ -8,42 +8,40 @@ After reading the instruction carefully, I planned my work. Then, I divided the 
 
 ## File Structure
 
-##### action:
+##### action: all actions for our app.
+   - Algorithm.js
+   - ContextApi.js
 
-        - Algorithm.js algorith used in application
-        - ContextApi.js context api for application
+##### components: all usefull components for our app.
 
-##### components: All usefull components for our app.
+1. common: all common child components.
+    - Selected.js
+2. hoc: all higher order component are here.
+    - context
+        - EmailsProvider.js
+    - AppContext.js
+    - ErrorBoundary.js
 
-    1. common: All common child components.
-            - Selected.js selected items
-    2. hoc: All higher order component are here.
-            - context
-                    - EmailsProvider.js
-            - AppContext.js Context api provider
-            - ErrorBoundary.js Error-Boundary message
+3. list: all child component of List.
+     - ListHead.js
+     - ListItemContent.js
+4. table: all child component of Table.
+     - TableHead.js
 
-    3. list: All child component of List.
-            - ListHead.js List header
-            - ListItemContent.js List Content
-    4. table: All child component of Table.
-            - TableHead.js Table header
+##### sections: all section of the page.
+   - Blank.js
+   - List.js
+   - Search.js
+   - Table.js
 
-##### sections: All section of the page.
+##### data: static data resources.
 
-        - Blank.js show for 0 result
-        - List.js  list view
-        - Search.js search view
-        - Table.js table view
+   - Resources
+   - Demo.js (all rendom data)
 
-##### data: Static data resources.
+##### App.js: all section combined here.
 
-        - Resources all resources provided
-        - Demo.js all rendom data
-
-##### App.js: All section combined here.
-
-##### Index.js: Root file to load my settings.
+##### Index.js: root file to load my settings.
 
 ## Available Scripts
 
