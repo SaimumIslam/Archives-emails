@@ -1,4 +1,4 @@
-# archives-emails
+# Archives-emails
 Responsive archieve emails for admin
 
 # [Live](https://practical-wiles-9ff8e1.netlify.app/)
