@@ -4,6 +4,13 @@ Responsive archieve emails for admin
 # [Live](https://practical-wiles-9ff8e1.netlify.app/)
 Demo data used(only result available from 01/02/1920-12/12/2020
 
+## Screenshot
+
+![blank](https://user-images.githubusercontent.com/25328307/94724061-81e41000-037b-11eb-98ad-9601da2046e2.PNG)
+![desktop](https://user-images.githubusercontent.com/25328307/94724068-83add380-037b-11eb-8e2e-02522fe2f151.PNG)
+![mobile](https://user-images.githubusercontent.com/25328307/94724066-83153d00-037b-11eb-9ef8-eec55cae66c8.PNG)
+
+
 ## Technology
 
 **Reactjs, Material-ui**
