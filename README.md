@@ -2,7 +2,7 @@
 Responsive archieve emails for admin
 
 # [Live](https://practical-wiles-9ff8e1.netlify.app/)
-Demo data used(only result available from 01/02/1920-12/12/2020
+Demo data used only result available from 01/02/1920-12/12/2020
 
 ## Screenshot
 
